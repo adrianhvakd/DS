@@ -1,0 +1,123 @@
+/* Custom styles for the project using primary color #27ae60 */
+
+/* Section container styling */
+section .dv {
+    background-color: #f8f9fa;
+    padding: 50px 0;
+}
+
+section .container.text-center h2 {
+    color: #27ae60;
+    font-weight: 700;
+    margin-bottom: 20px;
+}
+
+section .container.text-center p {
+    color: #6c757d;
+    font-size: 1.1rem;
+}
+
+/* Custom card styling */
+.custom-project-card {
+    border: none;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.custom-project-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.custom-project-card .card-body {
+    padding: 20px;
+}
+
+.custom-project-card .card-title {
+    color: #27ae60;
+    font-size: 1.25rem;
+    font-weight: 600;
+}
+
+.custom-project-card .card-text {
+    color: #495057;
+    font-size: 1rem;
+}
+
+.custom-project-card .img-fluid {
+    border-radius: 10px 0 0 10px;
+    object-fit: cover;
+    height: 100%;
+}
+
+/* Custom donate button styling */
+.custom-donate-btn {
+    background-color: #27ae60;
+    border: none;
+    color: white;
+    font-weight: 500;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.custom-donate-btn:hover {
+    background-color: #219653;
+}
+
+/* Custom modal styling */
+.custom-modal .modal-content {
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.custom-modal .modal-header {
+    background-color: #27ae60;
+    color: white;
+    border-bottom: none;
+}
+
+.custom-modal .modal-title {
+    font-weight: 600;
+}
+
+.custom-modal .btn-close {
+    filter: invert(1);
+}
+
+.custom-modal .modal-body {
+    padding: 20px;
+}
+
+.custom-modal .btn-primary {
+    background-color: #27ae60;
+    border: none;
+    transition: background-color 0.3s ease;
+}
+
+.custom-modal .btn-primary:hover {
+    background-color: #219653;
+}
+
+.custom-modal .btn-secondary {
+    background-color: #6c757d;
+    border: none;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .custom-project-card .img-fluid {
+        border-radius: 10px 10px 0 0;
+    }
+
+    .custom-project-card .row {
+        flex-direction: column;
+    }
+
+    .custom-donate-btn {
+        width: 100%;
+        text-align: center;
+    }
+}

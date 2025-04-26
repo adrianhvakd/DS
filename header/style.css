@@ -1,0 +1,104 @@
+/* Estilos minimalistas para el navbar */
+.donation-header-wrapper {
+	margin: 0;
+	padding: 0;
+	background-color: #ffffff;
+	box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	z-index: 1030;
+  }
+  
+  .donation-navbar {
+	padding: 10px 0;
+	background-color: #ffffff !important;
+  }
+  
+  .donation-logo {
+	font-weight: 600;
+	color: #333333;
+	padding: 0;
+	transition: color 0.2s ease;
+  }
+  
+  .donation-logo:hover {
+	color: #27ae60;
+  }
+  
+  .donation-tagline {
+	color: #6c757d;
+	font-size: 14px;
+	font-weight: 400;
+	margin: 0 15px;
+	text-align: center;
+  }
+  
+  .donation-nav-menu {
+	margin-left: auto;
+  }
+  
+  .donation-nav-item {
+	margin: 0 2px;
+  }
+  
+  .donation-nav-link {
+	position: relative;
+	color: #555555;
+	font-weight: 500;
+	font-size: 15px;
+	padding: 8px 12px !important;
+	transition: color 0.2s ease;
+  }
+  
+  .donation-nav-link:hover, 
+  .donation-nav-link.active {
+	color: #27ae60;
+  }
+  
+  .donation-nav-link::after {
+	content: '';
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	width: 0;
+	height: 2px;
+	background-color: #27ae60;
+	transition: all 0.3s ease;
+	transform: translateX(-50%);
+  }
+  
+  .donation-nav-link:hover::after,
+  .donation-nav-link.active::after {
+	width: 70%;
+  }
+  
+
+  /* Ajustes responsivos */
+  @media (max-width: 991.98px) {
+	.donation-tagline {
+	  text-align: left;
+	  margin-left: 0;
+	  margin-bottom: 8px;
+	}
+	
+	.donation-nav-link::after {
+	  display: none;
+	}
+	
+	.donation-nav-link.active {
+	  background-color: rgba(39, 174, 96, 0.1);
+	  border-radius: 4px;
+	}
+	
+	/* Ajuste para compensar el navbar fijo */
+	body.donation-body {
+	  padding-top: 70px;
+	}
+  }
+  
+  /* Ajuste para compensar el navbar fijo */
+  body.donation-body {
+	padding-top: 80px;
+  }
