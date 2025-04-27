@@ -46,7 +46,7 @@
                     <p>Nuestro equipo está formado por profesionales comprometidos y voluntarios que comparten la visión de un mundo más justo y equitativo para todos.</p>
                 </div>
                 <div class="col-md-6">
-                    <img src="/api/placeholder/500/300" alt="Nuestro equipo" class="img-fluid rounded">
+                    <img src="./img/grupo.webp" alt="Nuestro equipo" class="img-fluid rounded">
                 </div>
             </div>
         </div>
@@ -103,6 +103,17 @@
             <h2 class="mb-3 custom-text-primary">Únete a Nuestra Causa</h2>
             <p class="mb-4">Tu contribución puede marcar la diferencia en la vida de muchas personas.</p>
             <a href="#" class="btn custom-btn-primary px-4 py-2">Donar ahora</a>
+        </div>
+    </section>
+    <section class="container">
+        <div class="row mt-5">
+            <div class="col-12">
+                <div class="card shadow-sm border-0">
+                    <div class="card-body p-0">
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3712.2998440145593!2d-71.90648882505941!3d-13.537146871438038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x916e7edf8692efd5%3A0xb2151ede7622f88b!2sUniversidad%20Andina%20del%20Cusco!5e1!3m2!1ses-419!2spe!4v1745691722009!5m2!1ses-419!2spe" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    </div>
+                </div>
+            </div>
         </div>
     </section>
     

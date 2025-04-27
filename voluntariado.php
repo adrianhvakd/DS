@@ -68,33 +68,33 @@
           </div>
           <div class="col-md-3 col-sm-6">
             <div class="vol-card h-100">
-              <img src="..." class="vol-image w-100" alt="Voluntarios en acción">
+              <img src="./img/recreacion.webp" class="vol-image w-100" alt="Voluntarios en acción">
               <div class="card-body text-center">
-                <h5 class="card-title" style="color: #27ae60">Educación</h5>
+                <h5 class="card-title" style="color: #27ae60">Juegos y Recreación</h5>
               </div>
             </div>
           </div>
           <div class="col-md-3 col-sm-6">
             <div class="vol-card h-100">
-              <img src="/api/placeholder/400/320" class="vol-image w-100" alt="Voluntarios en acción">
+              <img src="./img/nutricion.webp" class="vol-image w-100" alt="Voluntarios en acción">
               <div class="card-body text-center">
-                <h5 class="card-title" style="color: #27ae60">Educación</h5>
+                <h5 class="card-title" style="color: #27ae60">Nutrición y Alimentación</h5>
               </div>
             </div>
           </div>
           <div class="col-md-3 col-sm-6">
             <div class="vol-card h-100">
-              <img src="/api/placeholder/400/320" class="vol-image w-100" alt="Voluntarios en acción">
+              <img src="./img/psico.webp" class="vol-image w-100" alt="Voluntarios en acción">
               <div class="card-body text-center">
-                <h5 class="card-title" style="color: #27ae60">Educación</h5>
+                <h5 class="card-title" style="color: #27ae60">Apoyo Psicologico</h5>
               </div>
             </div>
           </div>
           <div class="col-md-3 col-sm-6">
             <div class="vol-card h-100">
-              <img src="/api/placeholder/400/320" class="vol-image w-100" alt="Voluntarios en acción">
+              <img src="./img/animal.webp" class="vol-image w-100" alt="Voluntarios en acción">
               <div class="card-body text-center">
-                <h5 class="card-title" style="color: #27ae60">Educación</h5>
+                <h5 class="card-title" style="color: #27ae60">Conexión Animal</h5>
               </div>
             </div>
           </div>

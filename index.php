@@ -230,7 +230,17 @@
     </section>
 
     <section class="donation-extra-section"></section>
-
+    <section class="container">
+    <div class="row mt-5">
+      <div class="col-12">
+          <div class="card shadow-sm border-0">
+              <div class="card-body p-0">
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3712.2998440145593!2d-71.90648882505941!3d-13.537146871438038!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x916e7edf8692efd5%3A0xb2151ede7622f88b!2sUniversidad%20Andina%20del%20Cusco!5e1!3m2!1ses-419!2spe!4v1745691722009!5m2!1ses-419!2spe" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+              </div>
+          </div>
+      </div>
+    </div>
+  </section>
     <footer>
         <?php include './footer/index.php';?>
     </footer>

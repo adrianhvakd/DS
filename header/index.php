@@ -6,12 +6,17 @@
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.4/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-DQvkBjpPgn7RC31MCQoOeC9TI2kdqa4+BSgNMNj8v77fdC77Kj5zpWFTJaaAoMbC" crossorigin="anonymous">
   <title>aea</title>
 </head>
-
+  <style>
+    .donation-logo img {
+      height: 70px;
+      width: auto;
+    }
+  </style>
 <body class="donation-body">
   <div class="donation-header-wrapper">
     <nav class="navbar sticky-top navbar-expand-lg bg-body-tertiary donation-navbar">
       <div class="container aea">
-        <a class="donation-logo navbar-brand" href="./index.php">Logotipo</a>
+        <a class="donation-logo navbar-brand" href="./index.php"><img src="./img/logo.png"></a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#donationNavbarDropdown" aria-controls="donationNavbarDropdown" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon"></span>
         </button>
@@ -28,7 +33,7 @@
               <a class="nav-link donation-nav-link" href="nosotros.php">Nosotros</a>
             </li>
             <li class="nav-item donation-nav-item">
-              <a class="nav-link donation-nav-link" href="voluntariado.php">voluntariado</a>
+              <a class="nav-link donation-nav-link" href="voluntariado.php">Voluntariado</a>
             </li>
             <li class="nav-item donation-nav-item">
               <a class="nav-link donation-nav-link" href="contactanos.php">Contacto</a>

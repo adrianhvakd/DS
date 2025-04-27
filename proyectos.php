@@ -123,7 +123,7 @@
                       <div class="card h-100">
                           <img src="./img/experimentos.webp" class="card-img-top" alt="...">
                           <div class="card-body">
-                          <h5 class="card-title">Experimentos Cientificos</h5>
+                          <h5 class="card-title">Experimentos Científicos</h5>
                           <p class="card-text">Nuestros niños juegan con su imaginación, en equipo construyen bases, refugios, casas, cuevas y demás con diversos materiales.</p>
                           </div>
                           <div class="card-footer">
@@ -171,10 +171,10 @@
                     </div>
                     <div class="col">
                       <div class="card h-100">
-                          <img src="./img/experimentos.webp" class="card-img-top" alt="...">
+                          <img src="./img/musica.webp" class="card-img-top" alt="...">
                           <div class="card-body">
-                          <h5 class="card-title">Experimentos Cientificos</h5>
-                          <p class="card-text">Nuestros niños juegan con su imaginación, en equipo construyen bases, refugios, casas, cuevas y demás con diversos materiales.</p>
+                          <h5 class="card-title">Música y Ritmo</h5>
+                          <p class="card-text">Los niños exploran la música a través de instrumentos sencillos, creando ritmos y melodías mientras desarrollan su creatividad y trabajan en equipo.</p>
                           </div>
                           <div class="card-footer">
                               <div class="container">
@@ -221,10 +221,10 @@
                     </div>
                     <div class="col">
                       <div class="card h-100">
-                          <img src="./img/experimentos.webp" class="card-img-top" alt="...">
+                          <img src="./img/teatro.webp" class="card-img-top" alt="...">
                           <div class="card-body">
-                          <h5 class="card-title">Experimentos Cientificos</h5>
-                          <p class="card-text">Nuestros niños juegan con su imaginación, en equipo construyen bases, refugios, casas, cuevas y demás con diversos materiales.</p>
+                          <h5 class="card-title">Teatro y Cuentacuentos</h5>
+                          <p class="card-text">Un espacio donde los niños dan rienda suelta a su imaginación, explorando el teatro y el arte de contar historias para desarrollar su creatividad y habilidades comunicativas.</p>
                           </div>
                           <div class="card-footer">
                               <div class="container">
@@ -271,10 +271,10 @@
                     </div>
                     <div class="col">
                       <div class="card h-100">
-                          <img src="./img/experimentos.webp" class="card-img-top" alt="...">
+                          <img src="./img/reclaje.webp" class="card-img-top" alt="...">
                           <div class="card-body">
-                          <h5 class="card-title">Experimentos Cientificos</h5>
-                          <p class="card-text">Nuestros niños juegan con su imaginación, en equipo construyen bases, refugios, casas, cuevas y demás con diversos materiales.</p>
+                          <h5 class="card-title">Manualidades con Reciclaje</h5>
+                          <p class="card-text">Una actividad divertida y educativa donde los niños aprenden a crear objetos únicos y útiles utilizando materiales reciclados, fomentando el cuidado del medio ambiente y su creatividad.</p>
                           </div>
                           <div class="card-footer">
                               <div class="container">
@@ -321,10 +321,10 @@
                     </div>
                     <div class="col">
                       <div class="card h-100">
-                          <img src="./img/experimentos.webp" class="card-img-top" alt="...">
+                          <img src="./img/jardineria.webp" class="card-img-top" alt="...">
                           <div class="card-body">
-                          <h5 class="card-title">Experimentos Cientificos</h5>
-                          <p class="card-text">Nuestros niños juegan con su imaginación, en equipo construyen bases, refugios, casas, cuevas y demás con diversos materiales.</p>
+                          <h5 class="card-title">Jardineria</h5>
+                          <p class="card-text">Un espacio donde los niños aprenden a cultivar y cuidar plantas, conectando con la naturaleza mientras desarrollan paciencia, responsabilidad y habilidades prácticas.</p>
                           </div>
                           <div class="card-footer">
                               <div class="container">
@@ -371,10 +371,10 @@
                     </div>
                     <div class="col">
                       <div class="card h-100">
-                          <img src="./img/experimentos.webp" class="card-img-top" alt="...">
+                          <img src="./img/deporte.webp" class="card-img-top" alt="...">
                           <div class="card-body">
-                          <h5 class="card-title">Experimentos Cientificos</h5>
-                          <p class="card-text">Nuestros niños juegan con su imaginación, en equipo construyen bases, refugios, casas, cuevas y demás con diversos materiales.</p>
+                          <h5 class="card-title">Deportes</h5>
+                          <p class="card-text">Un espacio para que los niños disfruten de actividades deportivas, mejorando su condición física, trabajo en equipo y habilidades motrices de forma divertida y dinámica.</p>
                           </div>
                           <div class="card-footer">
                               <div class="container">
@@ -421,10 +421,10 @@
                     </div>
                     <div class="col">
                       <div class="card h-100">
-                          <img src="./img/experimentos.webp" class="card-img-top" alt="...">
+                          <img src="./img/estudio.webp" class="card-img-top" alt="...">
                           <div class="card-body">
-                          <h5 class="card-title">Experimentos Cientificos</h5>
-                          <p class="card-text">Nuestros niños juegan con su imaginación, en equipo construyen bases, refugios, casas, cuevas y demás con diversos materiales.</p>
+                          <h5 class="card-title">Educación</h5>
+                          <p class="card-text">Un espacio donde los niños aprenden las bases esenciales de la educación, como matemáticas, lectura y escritura, a través de actividades prácticas y divertidas que despiertan su amor por aprender.</p>
                           </div>
                           <div class="card-footer">
                               <div class="container">
@@ -471,10 +471,10 @@
                     </div>
                     <div class="col">
                       <div class="card h-100">
-                          <img src="./img/experimentos.webp" class="card-img-top" alt="...">
+                          <img src="./img/fotos.webp" class="card-img-top" alt="...">
                           <div class="card-body">
-                          <h5 class="card-title">Experimentos Cientificos</h5>
-                          <p class="card-text">Nuestros niños juegan con su imaginación, en equipo construyen bases, refugios, casas, cuevas y demás con diversos materiales.</p>
+                          <h5 class="card-title">Fotografía</h5>
+                          <p class="card-text">Un taller donde los niños exploran el mundo a través de la cámara, aprendiendo a capturar momentos únicos y desarrollando su creatividad y mirada artística.</p>
                           </div>
                           <div class="card-footer">
                               <div class="container">
@@ -521,10 +521,10 @@
                     </div>
                     <div class="col">
                       <div class="card h-100">
-                          <img src="./img/experimentos.webp" class="card-img-top" alt="...">
+                          <img src="./img/zoo.webp" class="card-img-top" alt="...">
                           <div class="card-body">
-                          <h5 class="card-title">Experimentos Cientificos</h5>
-                          <p class="card-text">Nuestros niños juegan con su imaginación, en equipo construyen bases, refugios, casas, cuevas y demás con diversos materiales.</p>
+                          <h5 class="card-title">Visitas a Mini Zoo</h5>
+                          <p class="card-text">Una experiencia educativa y divertida donde los niños conocen de cerca a los animales, aprendiendo sobre su cuidado, hábitats y fomentando el respeto por la naturaleza.</p>
                           </div>
                           <div class="card-footer">
                               <div class="container">
@@ -571,10 +571,10 @@
                     </div>
                     <div class="col">
                       <div class="card h-100">
-                          <img src="./img/experimentos.webp" class="card-img-top" alt="...">
+                          <img src="./img/juegos.webp" class="card-img-top" alt="...">
                           <div class="card-body">
-                          <h5 class="card-title">Experimentos Cientificos</h5>
-                          <p class="card-text">Nuestros niños juegan con su imaginación, en equipo construyen bases, refugios, casas, cuevas y demás con diversos materiales.</p>
+                          <h5 class="card-title">Juegos en Grupo</h5>
+                          <p class="card-text">Actividades emocionantes y colaborativas donde los niños trabajan juntos, desarrollando habilidades sociales, comunicación y espíritu de equipo mientras se divierten al máximo.</p>
                           </div>
                           <div class="card-footer">
                               <div class="container">
